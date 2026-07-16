@@ -163,7 +163,7 @@ You can trigger Gesture Mode simply by shaking (wiggling) your mouse rapidly lef
   - left: Left Click
   - mouse4: Mouse 4 (Back Button)
   - mouse5: Mouse 5 (Forward Button)
-- EnableWiggleToActivate: Disabled
+- EnableWiggleToActivate: never
   $name: Wiggle to Activate
   $options:
   - never: Disabled
